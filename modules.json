@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "plt9_2",
+    "module_label": "PLT.9.2 - Data Harmonization & Deduplication",
+    "module_title": "Data Harmonization & Deduplication",
+    "module_slug": "data_harmonization_and_deduplication",
+    "app_code": "plt9",
+    "app_label": "PLT 9 - Master Data Management (MDM)",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_code": "plt9_1",
+    "module_label": "PLT.9.1 - Master Data Capture & Cleansing",
+    "module_title": "Master Data Capture & Cleansing",
+    "module_slug": "master_data_capture_and_cleansing",
+    "app_code": "plt9",
+    "app_label": "PLT 9 - Master Data Management (MDM)",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_code": "plt9_3",
+    "module_label": "PLT.9.3 - Synchronization & Audit Logging",
+    "module_title": "Synchronization & Audit Logging",
+    "module_slug": "synchronization_and_audit_logging",
+    "app_code": "plt9",
+    "app_label": "PLT 9 - Master Data Management (MDM)",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  }
+]
